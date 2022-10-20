@@ -50,3 +50,260 @@
 2022-10-20 12:14:03,506 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=AFFIL%28dartmouth%29+AND+AUTHOR-NAME%28lewis%29+AND+PUBYEAR+%3E+2011
 2022-10-20 12:14:08,628 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=75&count=25&query=AFFIL%28dartmouth%29+AND+AUTHOR-NAME%28lewis%29+AND+PUBYEAR+%3E+2011
 2022-10-20 12:14:11,290 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=100&count=25&query=AFFIL%28dartmouth%29+AND+AUTHOR-NAME%28lewis%29+AND+PUBYEAR+%3E+2011
+2022-10-20 12:57:30,282 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 12:57:33,759 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 12:57:33,759 - elsapy.utils - INFO - Module loaded.
+2022-10-20 12:57:33,760 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 12:57:33,761 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 12:57:33,761 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 12:57:33,762 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/7004367821
+2022-10-20 12:57:34,884 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/7004367821
+2022-10-20 12:57:34,887 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/author/author_id/7004367821 to file
+2022-10-20 12:57:35,888 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/affiliation/affiliation_id/60101411
+2022-10-20 12:59:52,041 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 12:59:52,484 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 12:59:52,485 - elsapy.utils - INFO - Module loaded.
+2022-10-20 12:59:52,485 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 12:59:52,486 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 12:59:52,486 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 12:59:53,045 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/7004367821
+2022-10-20 12:59:54,081 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/7004367821
+2022-10-20 12:59:54,083 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/author/author_id/7004367821 to file
+2022-10-20 12:59:55,086 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/affiliation/affiliation_id/60101411
+2022-10-20 12:59:55,819 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/affiliation/affiliation_id/60101411
+2022-10-20 12:59:55,820 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/affiliation/affiliation_id/60101411 to file
+2022-10-20 13:00:03,030 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 13:00:03,302 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 13:00:03,302 - elsapy.utils - INFO - Module loaded.
+2022-10-20 13:00:03,303 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 13:00:03,303 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 13:00:03,304 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 13:00:04,034 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=authlast%28keuskamp%29
+2022-10-20 13:01:03,494 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 13:01:03,809 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 13:01:03,809 - elsapy.utils - INFO - Module loaded.
+2022-10-20 13:01:03,810 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 13:01:03,810 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 13:01:03,810 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 13:01:04,497 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=authlast%28Einstein%29+and+authfirst%28Albert%29+and+affil%28Princeton%29
+2022-10-20 13:03:15,478 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 13:03:15,768 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 13:03:15,769 - elsapy.utils - INFO - Module loaded.
+2022-10-20 13:03:15,769 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 13:03:15,770 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 13:03:15,770 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 13:03:16,478 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=authlast%28Einstein%29+and+authfirst%28Albert%29+and+affil%28Princeton%29
+2022-10-20 13:03:18,666 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 13:03:18,947 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 13:03:18,947 - elsapy.utils - INFO - Module loaded.
+2022-10-20 13:03:18,947 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 13:03:18,948 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 13:03:18,948 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 13:03:19,671 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=authlast%28Einstein%29+and+authfirst%28Albert%29+and+affil%28Princeton%29
+2022-10-20 13:14:51,719 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 13:14:52,052 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 13:14:52,052 - elsapy.utils - INFO - Module loaded.
+2022-10-20 13:14:52,053 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 13:14:52,053 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 13:14:52,053 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 13:16:14,547 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 13:16:14,853 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 13:16:14,853 - elsapy.utils - INFO - Module loaded.
+2022-10-20 13:16:14,853 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 13:16:14,854 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 13:16:14,854 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 13:18:56,519 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 13:18:56,807 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 13:18:56,807 - elsapy.utils - INFO - Module loaded.
+2022-10-20 13:18:56,808 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 13:18:56,809 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 13:18:56,809 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 13:21:05,586 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 13:21:05,885 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 13:21:05,886 - elsapy.utils - INFO - Module loaded.
+2022-10-20 13:21:05,886 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 13:21:05,887 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 13:21:05,887 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 13:25:42,507 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 13:25:42,828 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 13:25:42,829 - elsapy.utils - INFO - Module loaded.
+2022-10-20 13:25:42,829 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 13:25:42,829 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 13:25:42,830 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 13:27:07,694 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 13:27:07,986 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 13:27:07,986 - elsapy.utils - INFO - Module loaded.
+2022-10-20 13:27:07,987 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 13:27:07,987 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 13:27:07,988 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 13:27:31,125 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 13:27:31,397 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 13:27:31,397 - elsapy.utils - INFO - Module loaded.
+2022-10-20 13:27:31,398 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 13:27:31,398 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 13:27:31,398 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 13:27:45,701 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 13:27:45,977 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 13:27:45,977 - elsapy.utils - INFO - Module loaded.
+2022-10-20 13:27:45,977 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 13:27:45,978 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 13:27:45,978 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 13:27:46,705 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=authlast%28Abraham%29+and+authfirst%28Ian%29+and+affil%28Yale%29
+2022-10-20 13:32:46,358 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 13:32:46,692 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 13:32:46,693 - elsapy.utils - INFO - Module loaded.
+2022-10-20 13:32:46,693 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 13:32:46,693 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 13:32:46,694 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 13:32:47,362 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=authlast%28Abraham%29+and+authfirst%28Ian%29+and+affil%28Yale%29
+2022-10-20 13:33:03,139 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 13:33:03,412 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 13:33:03,413 - elsapy.utils - INFO - Module loaded.
+2022-10-20 13:33:03,413 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 13:33:03,413 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 13:33:03,414 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 13:33:04,144 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=authlast%28Abraham%29+and+authfirst%28Ian%29+and+affil%28Yale%29
+2022-10-20 13:33:40,873 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 13:33:41,156 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 13:33:41,157 - elsapy.utils - INFO - Module loaded.
+2022-10-20 13:33:41,157 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 13:33:41,158 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 13:33:41,158 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 13:33:41,874 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=authlast%28Abraham%29+and+authfirst%28Ian%29+and+affil%28Yale%29
+2022-10-20 13:34:00,856 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 13:34:01,131 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 13:34:01,132 - elsapy.utils - INFO - Module loaded.
+2022-10-20 13:34:01,132 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 13:34:01,132 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 13:34:01,133 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 13:34:01,860 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=authlast%28Abraham%29+and+authfirst%28Ian%29+and+affil%28Yale%29
+2022-10-20 13:36:21,823 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 13:36:22,096 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 13:36:22,097 - elsapy.utils - INFO - Module loaded.
+2022-10-20 13:36:22,097 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 13:36:22,097 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 13:36:22,098 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 13:36:22,823 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=authlast%28Abraham%29+and+authfirst%28Ian%29+and+affil%28Yale%29
+2022-10-20 13:36:24,184 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 13:36:24,595 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 13:36:24,598 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/author/author_id/57196696280 to file
+2022-10-20 15:04:58,866 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 15:04:59,628 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 15:04:59,628 - elsapy.utils - INFO - Module loaded.
+2022-10-20 15:04:59,628 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 15:04:59,629 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 15:04:59,629 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 15:04:59,869 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=authlast%28Abraham%29+and+authfirst%28Ian%29+and+affil%28Yale%29
+2022-10-20 15:05:01,609 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:05:02,089 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:05:02,093 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/author/author_id/57196696280 to file
+2022-10-20 15:08:19,892 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 15:08:20,186 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 15:08:20,187 - elsapy.utils - INFO - Module loaded.
+2022-10-20 15:08:20,187 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 15:08:20,188 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 15:08:20,188 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 15:08:20,894 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=authlast%28Abraham%29+and+authfirst%28Ian%29+and+affil%28Yale%29
+2022-10-20 15:08:22,678 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:08:23,309 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:08:23,312 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/author/author_id/57196696280 to file
+2022-10-20 15:08:36,395 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 15:08:36,710 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 15:08:36,710 - elsapy.utils - INFO - Module loaded.
+2022-10-20 15:08:36,710 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 15:08:36,711 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 15:08:36,711 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 15:08:37,401 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=authlast%28Abraham%29+and+authfirst%28Ian%29+and+affil%28Yale%29
+2022-10-20 15:08:38,852 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:08:39,352 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:08:39,355 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/author/author_id/57196696280 to file
+2022-10-20 15:09:48,696 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 15:09:48,960 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 15:09:48,960 - elsapy.utils - INFO - Module loaded.
+2022-10-20 15:09:48,960 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 15:09:48,961 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 15:09:48,961 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 15:09:49,700 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=authlast%28Abraham%29+and+authfirst%28Ian%29+and+affil%28Yale%29
+2022-10-20 15:09:51,099 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:09:51,529 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:10:14,927 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 15:10:15,194 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 15:10:15,194 - elsapy.utils - INFO - Module loaded.
+2022-10-20 15:10:15,194 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 15:10:15,195 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 15:10:15,195 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 15:10:15,933 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=authlast%28Abraham%29+and+authfirst%28Ian%29+and+affil%28Yale%29
+2022-10-20 15:10:17,466 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:10:17,718 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:10:44,613 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 15:10:44,911 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 15:10:44,911 - elsapy.utils - INFO - Module loaded.
+2022-10-20 15:10:44,911 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 15:10:44,912 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 15:10:44,912 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 15:10:45,616 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=authlast%28Abraham%29+and+authfirst%28Ian%29+and+affil%28Yale%29
+2022-10-20 15:10:47,210 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:10:47,501 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:11:36,972 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 15:11:37,265 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 15:11:37,266 - elsapy.utils - INFO - Module loaded.
+2022-10-20 15:11:37,266 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 15:11:37,266 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 15:11:37,267 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 15:11:37,974 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=authlast%28Abraham%29+and+authfirst%28Ian%29+and+affil%28Yale%29
+2022-10-20 15:11:39,257 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:11:39,611 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:11:39,637 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/author/author_id/57196696280 to file
+2022-10-20 15:19:22,253 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 15:19:22,513 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 15:19:22,513 - elsapy.utils - INFO - Module loaded.
+2022-10-20 15:19:22,513 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 15:19:22,514 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 15:19:22,514 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 15:19:23,257 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=authlast%28Abraham%29+and+authfirst%28Ian%29+and+affil%28Yale%29
+2022-10-20 15:19:24,757 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:19:25,289 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:19:57,664 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 15:19:57,939 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 15:19:57,939 - elsapy.utils - INFO - Module loaded.
+2022-10-20 15:19:57,940 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 15:19:57,940 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 15:19:57,941 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 15:19:58,667 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=authlast%28Abraham%29+and+authfirst%28Ian%29+and+affil%28Yale%29
+2022-10-20 15:20:00,043 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:20:00,666 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:20:00,667 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/author/author_id/57196696280 to file
+2022-10-20 15:35:40,009 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 15:35:40,279 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 15:35:40,280 - elsapy.utils - INFO - Module loaded.
+2022-10-20 15:35:40,280 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 15:35:40,280 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 15:35:40,281 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 15:35:48,173 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 15:35:48,455 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 15:35:48,455 - elsapy.utils - INFO - Module loaded.
+2022-10-20 15:35:48,455 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 15:35:48,456 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 15:35:48,457 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 15:35:49,178 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=authlast%28Abraham%29+and+authfirst%28Ian%29+and+affil%28Yale%29
+2022-10-20 15:35:50,698 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:35:51,335 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:36:02,780 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 15:36:03,046 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 15:36:03,046 - elsapy.utils - INFO - Module loaded.
+2022-10-20 15:36:03,046 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 15:36:03,047 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 15:36:03,047 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 15:36:03,781 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=authlast%28Abraham%29+and+authfirst%28Ian%29+and+affil%28Yale%29
+2022-10-20 15:36:05,448 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:36:05,872 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:36:17,632 - elsapy.elsclient - INFO - Module loaded.
+2022-10-20 15:36:17,905 - elsapy.elsentity - INFO - Module loaded.
+2022-10-20 15:36:17,905 - elsapy.utils - INFO - Module loaded.
+2022-10-20 15:36:17,905 - elsapy.elsprofile - INFO - Module loaded.
+2022-10-20 15:36:17,906 - elsapy.elsdoc - INFO - Module loaded.
+2022-10-20 15:36:17,906 - elsapy.elssearch - INFO - Module loaded.
+2022-10-20 15:36:18,634 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=authlast%28Abraham%29+and+authfirst%28Ian%29+and+affil%28Yale%29
+2022-10-20 15:36:19,944 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:36:20,262 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/57196696280
+2022-10-20 15:36:20,264 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/author/author_id/57196696280 to file
